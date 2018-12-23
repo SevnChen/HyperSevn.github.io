@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/sevn-log/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/sevn-log/" rel="alternate" type="text/html" /><updated>2018-12-13T22:56:21+08:00</updated><id>http://localhost:4000/sevn-log/feed.xml</id><title type="html">Sevn’Log</title><subtitle>Document my learning notes.</subtitle><author><name>Sevn Chen</name></author><entry><title type="html">Deep Learn on Graphs简述</title><link href="http://localhost:4000/sevn-log/2017/06/21/Deep-Learn-on-Graphs%E7%AE%80%E8%BF%B0.html" rel="alternate" type="text/html" title="Deep Learn on Graphs简述" /><published>2017-06-21T09:09:00+08:00</published><updated>2017-06-21T09:09:00+08:00</updated><id>http://localhost:4000/sevn-log/2017/06/21/Deep%20Learn%20on%20Graphs%E7%AE%80%E8%BF%B0</id><content type="html" xml:base="http://localhost:4000/sevn-log/2017/06/21/Deep-Learn-on-Graphs%E7%AE%80%E8%BF%B0.html">&lt;blockquote&gt;
+  &lt;p&gt;近期工作的方向多集中在社交网络相关，结合之前在研究一些交通、NLP方面经验，觉得深度学习在Graphs方面会有比较大的应用。当然另一方面觉得但就个人业余研究而言图像、视频类似乎比较“无趣”，想试一下能否在Deep Learning on Graphs方面有所收货。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;一般来说Deep Learn on Graphs主要分为3大类：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;半监督，如：Graph Neural Networks和Graph Convolutional Networks&lt;/li&gt;
+  &lt;li&gt;非监督，如：Graph Autoencoders&lt;/li&gt;
+  &lt;li&gt;最新的，如：Graph Recurrent Neural Networks和Graph Reinforcement Learning&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;后面的介绍我们将分为三部分：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;根据出现的时间顺序，系统的介绍这些研究方向；&lt;/li&gt;
+  &lt;li&gt;分析这些研究方向的差异以及他们的相互组合；&lt;/li&gt;
+  &lt;li&gt;介绍应用并讨论未来的方向。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Sevn Chen</name></author><category term="Review" /><category term="DeepLearn" /><category term="Graphs" /><summary type="html">近期工作的方向多集中在社交网络相关，结合之前在研究一些交通、NLP方面经验，觉得深度学习在Graphs方面会有比较大的应用。当然另一方面觉得但就个人业余研究而言图像、视频类似乎比较“无趣”，想试一下能否在Deep Learning on Graphs方面有所收货。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/sevn-log/Deep%20Learn%20on%20Graphs%E7%AE%80%E8%BF%B0.jpg" /></entry></feed>

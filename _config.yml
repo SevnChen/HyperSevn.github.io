@@ -1,0 +1,21 @@
+title: Sevn'Log
+name: "Sevn Chen's Tech Blog"
+author: Sevn Chen
+twitter_username: HyperSevn
+baseurl: "/sevn-log"
+description: Document my learning notes.
+profile_url: "http:/sevnchen.cn"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge

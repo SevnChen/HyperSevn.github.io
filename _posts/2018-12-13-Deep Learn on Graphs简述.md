@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Deep Learn on Graphs简述"
-date: 2017-06-21 01:09:00
+date: 2018-12-13 01:09:00
 tags: Review DeepLearn Graphs
 image: "Deep Learn on Graphs简述.jpg"
 ---

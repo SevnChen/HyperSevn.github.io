@@ -1,2 +1,3 @@
 # Sevn'Log
-SevnChen's Blog
+
+HyperSevn's Blog

@@ -49,8 +49,8 @@ layout: default
     {% endif %}
   </div>
 
-  {% if page.comments %}
+  {% comment %} {% if page.comments %}
     {% include disqus.html %}
-  {% endif %}
+  {% endif %} {% endcomment %}
 
 </article>
